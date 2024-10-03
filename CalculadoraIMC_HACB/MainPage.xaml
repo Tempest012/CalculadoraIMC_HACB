@@ -4,8 +4,8 @@
              x:Class="CalculadoraIMC_HACB.MainPage">
 
     <StackLayout>
-        <Frame BackgroundColor="Red" Padding="24" CornerRadius="0">
-            <Label Text="CalculadoraIMC" HorizontalTextAlignment="Center" TextColor="Green" FontSize="36"/>
+        <Frame BackgroundColor="Green" Padding="24" CornerRadius="0">
+            <Label Text="CalculadoraIMC" HorizontalTextAlignment="Center" TextColor="Yellow" FontSize="36"/>
         </Frame>
         <Entry Placeholder="Peso" x:Name="Peso" Keyboard="Numeric"/>
         <Entry Placeholder="Altura" x:Name="Altura" Keyboard="Numeric"/>
